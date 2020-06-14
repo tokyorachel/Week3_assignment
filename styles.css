@@ -1,0 +1,47 @@
+.header {
+  background-color: #687A8F;
+  height:95px;
+  width: 1680px;
+  position: absolute;
+}
+
+.coronyalogo {
+  width: 197px;
+  height: 170px;
+}
+
+.contents {
+  background-color:#DCC7AA;
+  height:911px;
+  width: 1680px;
+}
+
+.contents h1 {
+  color: #FFFFFF;
+  Padding-top: 238px;
+  width: 439px;
+  font-family: Stint Ultra Expanded;
+  font-size: 96px;
+}
+
+.contents span {
+  font-family: Uncial Antiqua;
+  font-size: 175px;
+}
+
+.paw {
+  width: 40%;
+  height: auto;
+  top: 20px;
+}
+
+.coronyabeer {
+  width: 10%;
+  height: 10%;
+}
+
+.blackcat {
+  width:30%;
+  height:auto;
+  display: right;
+}
